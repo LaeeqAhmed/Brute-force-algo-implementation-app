@@ -1,0 +1,5 @@
+F:\Brute Force\Debug\GUII.vcxprojAssemblyReference.cache
+F:\Brute Force\Debug\GUII.MyForm.resources
+F:\Brute Force\Debug\GUII.vcxproj.GenerateResource.cache
+F:\Brute Force\Debug\GUII.exe
+F:\Brute Force\Debug\GUII.pdb
